@@ -1,3 +1,4 @@
 *.vhd
 LEARN_ASM.vbox
 LEARN_ASM.vbox-prev
+*.log
